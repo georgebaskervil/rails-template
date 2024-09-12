@@ -1,0 +1,4 @@
+# This file specifies the browsers we support
+ie >= 8
+> 1%
+last 2 versions
